@@ -6,3 +6,4 @@ A repository with Social Network Analysis (SNA) graphs created in Gephi
 - CSV files of the graphs' nodes and edges 
 
 ### Cite
+Parra, I. (2023). A Twitter Hashtag Network Analysis for ML and AI (Version 1.0.0) [Computer software]. https://github.com/IParraMartin/SNA-Graphs/new/main
