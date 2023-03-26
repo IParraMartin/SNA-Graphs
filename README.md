@@ -1,3 +1,6 @@
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/IParraMartin/SNA-Graphs)
+![GitHub repo size](https://img.shields.io/github/repo-size/IParraMartin/SNA-Graphs?color=red)
+
 # SNA-Graphs
 A repository with Social Network Analysis (SNA) graphs created in Gephi
 
